@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 # 2. Cargar datos
-coffee = pd.read_csv("synthetic_coffee_health_10000 - .csv")
+coffee = pd.read_csv("synthetic_coffee_health_10000 - Copy.csv")
 # Vista inicial
 print(coffee.head())
 print(coffee.info())
